@@ -1,0 +1,14 @@
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/bin/Debug/net8.0/Hata-ExceptionYonetimi-Devam1
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/bin/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.deps.json
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/bin/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.runtimeconfig.json
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/bin/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.dll
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/bin/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.pdb
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.AssemblyInfoInputs.cache
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.AssemblyInfo.cs
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.dll
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/refint/Hata-ExceptionYonetimi-Devam1.dll
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.pdb
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/Hata-ExceptionYonetimi-Devam1.genruntimeconfig.cache
+/Users/emrahelis/Hata-ExceptionYonetimi-Devam1/obj/Debug/net8.0/ref/Hata-ExceptionYonetimi-Devam1.dll
